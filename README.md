@@ -18,7 +18,7 @@ This project analyzes the Superstore dataset to understand key drivers of sales 
 
 The analysis of geographic distribution reveals that the **West region leads in total sales**, driven primarily by high-performing markets such as California, which alone contributes over $2.4M in revenue. Within California, **Los Angeles** is the top-performing city, highlighting the impact of urban demand concentration on regional performance.
 
-![Region Analysis](region-analysis.png)
+![Region Analysis](region-analysis.png.png)
 
 **Key Insight:**  
 Revenue is concentrated in high-density economic regions, emphasizing the strategic importance of targeting major urban markets.
@@ -35,7 +35,7 @@ The evaluation of product categories shows significant differences in revenue an
 | Office Supplies  | $857.92K   | $732K   | $126K   |
 | Furniture        | $774.48K   | $755K   | $0      |
 
-![Category Profitability](category-profit.png)
+![Category Profitability](category-profit.png.png)
 
 **Key Insight:**  
 - Technology leads in both sales and profit, demonstrating strong efficiency.  
@@ -59,7 +59,7 @@ Revenue is highly concentrated across customer segments:
 | Corporate     | 30.77%         | $0.72M  |
 | Home Office   | 18.9%          | $0.44M  |
 
-![Customer Segment](customer-segment.png)
+![Customer Segment](segment-analysis.png.png)
 
 **Key Insight:**  
 The **Consumer segment dominates** revenue, highlighting a reliance on individual customers. Corporate and Home Office segments contribute meaningfully but less so.
